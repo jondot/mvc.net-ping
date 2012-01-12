@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ping", "Ping\Ping.csproj", "{F826F1CA-9B96-4A4A-A9EB-B0142A91F908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ping.Driver", "Ping.Driver\Ping.Driver.csproj", "{FCC78E57-9ABC-4120-BDDF-AF17DA93DBCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F826F1CA-9B96-4A4A-A9EB-B0142A91F908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F826F1CA-9B96-4A4A-A9EB-B0142A91F908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F826F1CA-9B96-4A4A-A9EB-B0142A91F908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F826F1CA-9B96-4A4A-A9EB-B0142A91F908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC78E57-9ABC-4120-BDDF-AF17DA93DBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC78E57-9ABC-4120-BDDF-AF17DA93DBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC78E57-9ABC-4120-BDDF-AF17DA93DBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC78E57-9ABC-4120-BDDF-AF17DA93DBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
